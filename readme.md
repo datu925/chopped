@@ -1,0 +1,3 @@
+Plan is to scrape data from wikipedia page on Chopped, analyze names by gender, and assess whether there's likely gender bias in Chopped judgments.
+
+Long-term aim might be to assess whether certain words are used disproportionately (my hypothesis is that women are told that they need to take more risks and/or that their flavors need to pop more), but transcribing audio and pinning it to a candidate could be a much larger project.
